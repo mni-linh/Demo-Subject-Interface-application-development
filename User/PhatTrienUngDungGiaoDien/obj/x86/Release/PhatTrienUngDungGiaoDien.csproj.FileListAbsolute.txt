@@ -1,0 +1,16 @@
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\bin\x86\Release\PhatTrienUngDungGiaoDien.exe.config
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\bin\x86\Release\PhatTrienUngDungGiaoDien.exe
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\bin\x86\Release\PhatTrienUngDungGiaoDien.pdb
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\bin\x86\Release\EntityFramework.dll
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\bin\x86\Release\EntityFramework.SqlServer.dll
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\bin\x86\Release\EntityFramework.xml
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\bin\x86\Release\EntityFramework.SqlServer.xml
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\obj\x86\Release\PhatTrienUngDungGiaoDien.csprojAssemblyReference.cache
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\obj\x86\Release\PhatTrienUngDungGiaoDien.LoginForm.resources
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\obj\x86\Release\PhatTrienUngDungGiaoDien.MainForm.resources
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\obj\x86\Release\PhatTrienUngDungGiaoDien.Properties.Resources.resources
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\obj\x86\Release\PhatTrienUngDungGiaoDien.csproj.GenerateResource.cache
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\obj\x86\Release\PhatTrienUngDungGiaoDien.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\obj\x86\Release\PhatTrienUngDungGiaoDien.csproj.CopyComplete
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\obj\x86\Release\PhatTrienUngDungGiaoDien.exe
+D:\DOWNLOAD\C#cuoiki\PhatTrienUngDungGiaoDien\obj\x86\Release\PhatTrienUngDungGiaoDien.pdb

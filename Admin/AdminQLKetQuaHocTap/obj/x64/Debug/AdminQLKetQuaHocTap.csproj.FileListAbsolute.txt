@@ -1,0 +1,16 @@
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Debug\AdminQLKetQuaHocTap.AdminForm.resources
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Debug\AdminQLKetQuaHocTap.LoginForm.resources
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Debug\AdminQLKetQuaHocTap.Properties.Resources.resources
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Debug\AdminQLKetQuaHocTap.csproj.GenerateResource.cache
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Debug\AdminQLKetQuaHocTap.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\bin\x64\Debug\AdminQLKetQuaHocTap.exe.config
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\bin\x64\Debug\AdminQLKetQuaHocTap.exe
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\bin\x64\Debug\AdminQLKetQuaHocTap.pdb
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\bin\x64\Debug\EntityFramework.dll
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\bin\x64\Debug\EntityFramework.SqlServer.dll
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\bin\x64\Debug\EntityFramework.xml
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\bin\x64\Debug\EntityFramework.SqlServer.xml
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Debug\AdminQLKetQuaHocTap.csproj.CopyComplete
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Debug\AdminQLKetQuaHocTap.exe
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Debug\AdminQLKetQuaHocTap.pdb
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Debug\AdminQLKetQuaHocTap.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Release\AdminQLKetQuaHocTap.csprojAssemblyReference.cache
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Release\AdminQLKetQuaHocTap.AdminForm.resources
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Release\AdminQLKetQuaHocTap.LoginForm.resources
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Release\AdminQLKetQuaHocTap.Properties.Resources.resources
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Release\AdminQLKetQuaHocTap.csproj.GenerateResource.cache
+D:\DOWNLOAD\AdminQLKetQuaHocTap\AdminQLKetQuaHocTap\obj\x64\Release\AdminQLKetQuaHocTap.csproj.CoreCompileInputs.cache
