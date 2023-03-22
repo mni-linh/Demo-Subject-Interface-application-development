@@ -1,2 +1,1 @@
-# LapTrinhTrenWindows
-BaoCaoDoAn
+# Demo Subject Interface application development
